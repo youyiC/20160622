@@ -1,0 +1,11 @@
+.contentbox{
+    width:800px;
+    margin:0 auto;
+}
+p{
+    display: inline-block;
+}
+#submit{
+    width:200px;
+    height:20px;
+}
